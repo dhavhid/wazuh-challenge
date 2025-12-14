@@ -495,3 +495,5 @@ The plugin is ready for deployment and use in production environments.
 ![Priority filter](./docs/pic04.png)
 
 ![Tags filter](./docs/pic05.png)
+
+![Add todo form](./docs/pic06.png)
