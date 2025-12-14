@@ -481,3 +481,17 @@ This TO-DO plugin successfully implements all minimum requirements and includes 
 - **Well Documented** - Detailed architecture and testing guides
 
 The plugin is ready for deployment and use in production environments.
+
+---
+
+## Snapshoots
+
+![Main screen](./docs/pic01.png)
+
+![Stats screen](./docs/pic02.png)
+
+![Status filter](./docs/pic03.png)
+
+![Priority filter](./docs/pic04.png)
+
+![Tags filter](./docs/pic05.png)
